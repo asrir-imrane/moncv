@@ -962,10 +962,12 @@ img{
         margin-right: auto;
     }
 
-    body{
+    .body{
         margin: 0;
     }
-
+    .about__data{
+        align-items: center;
+    }
     .section{
         padding: 6rem 0 2rem;
     }
@@ -1025,7 +1027,7 @@ img{
         width: 350px;
     }
     .about__description{
-        text-align: center;
+        text-align: initial;
     }
     .about__info{
         justify-content: space-between;
