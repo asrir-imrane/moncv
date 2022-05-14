@@ -965,11 +965,9 @@ img{
     .body{
         margin: 0;
     }
-    .about__data{
-        align-items: center;
-    }
+    
     .section{
-        padding: 6rem 0 2rem;
+       padding: 10px 50px 20px;
     }
     .section__subtitle{
         margin-bottom: 4rem;
